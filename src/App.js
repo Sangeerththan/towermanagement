@@ -20,7 +20,7 @@ function App() {
 
   return (
     <div>
-    <iframe src="https://lcm-solutions.appiancloud.com/suite/sites/tower-management-system/page/home" width="100%" height="600px" frameborder="0" title="towermanagement"></iframe>
+    <iframe src="https://lowcodemindsdemo.appiancloud.com/suite/sites/contract-management-system-wit/page/communications" width="100%" height="600px" frameborder="0" title="towermanagement"></iframe>
       </div>
   );
 }
