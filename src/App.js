@@ -20,8 +20,8 @@ function App() {
 
   return (
     <div>
-    <iframe src="https://lowcodemindsdemo.appiancloud.com/suite/sites/contract-management-system-wit/page/communications" width="100%" height="600px" frameborder="0" title="towermanagement"></iframe>
-      </div>
+        <appian-record-view recordTypeUrlStub="gDXmbA" recordIdentifier="235" recordViewUrlStub="summary"></appian-record-view>
+    </div>
   );
 }
 
