@@ -20,9 +20,8 @@ function App() {
 
   return (
     <div>
-      Test
-      {/* <appian-report reportUrlStub="DtJN3Q"></appian-report> */}
-    </div>
+    <iframe src="https://lcm-solutions.appiancloud.com/suite/design/app/W8gsYMGSRXuLK1q5W0dnWA/objects" width="100%" height="600px" frameborder="0" title="towermanagement"></iframe>
+      </div>
   );
 }
 
