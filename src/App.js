@@ -5,7 +5,7 @@ function App() {
   useEffect(() => {
     // Create a script element
     const script = document.createElement('script');
-    script.src = 'https://lowcodemindsdemo.appiancloud.com/suite/tempo/ui/sail-client/embeddedBootstrap.nocache.js';
+    script.src = 'https://lcm-solutions.appiancloud.com/suite/tempo/ui/sail-client/embeddedBootstrap.nocache.js';
     script.id = 'appianEmbedded';
     script.async = true;
 
